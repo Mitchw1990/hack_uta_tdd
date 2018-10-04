@@ -10,6 +10,7 @@
     "axios": "0.18.0 - latest",
     "babel": "6.23.0",
     "babel-jest": "23.6.0",
+    "classnames": "^2.2.6",
     "jest": "23.6.0",
     "react": "16.5.2",
     "react-dom": "16.5.2",
