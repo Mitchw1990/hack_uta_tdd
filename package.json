@@ -5,6 +5,9 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@material-ui/core": "3.1.2",
+    "@material-ui/icons": "3.0.1",
+    "axios": "0.18.0 - latest",
     "babel": "6.23.0",
     "babel-jest": "23.6.0",
     "jest": "23.6.0",
